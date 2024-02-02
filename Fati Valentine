@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fati Valentine</title>
+    <!-- Liens vers les fichiers CSS -->
+    <!-- Liens vers les polices et icônes -->
+</head>
+<body>
+    <header>
+        <h1>Bienvenue sur Fati Valentine</h1>
+        <!-- Ici, vous pourriez ajouter une animation ou une image d'introduction -->
+    </header>
+
+    <section id="gallery">
+        <h2>Galerie de Photos</h2>
+        <!-- Carrousel d'images ici -->
+    </section>
+
+    <section id="quiz">
+        <h2>Quiz sur Notre Relation</h2>
+        <!-- Contenu du quiz ici -->
+    </section>
+
+    <section id="proposal">
+        <h2>La Demande</h2>
+        <!-- Message de demande, lettre virtuelle ou vidéo ici -->
+    </section>
+
+    <section id="response">
+        <h2>Votre Réponse</h2>
+        <!-- Formulaire de réponse ici -->
+    </section>
+
+    <footer>
+        <p>Créé avec amour pour Fati</p>
+    </footer>
+
+    <!-- Liens vers les fichiers JavaScript -->
+</body>
+</html>
